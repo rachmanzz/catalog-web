@@ -1,9 +1,3 @@
-Siap 👍
-Ini **README.md versi update** dengan tambahan **halaman admin** + info **dukungan Saweria & custom tampilan**, tetap dibuat **menarik & profesional** untuk proyek open-source.
-
----
-
-````md
 # 🛍️ IDKATALOG  
 Website E-Katalog Sederhana & Open Source
 
@@ -148,15 +142,3 @@ Untuk pertanyaan, saran, atau kolaborasi:
 **IDKATALOG**
 *Simple Catalog. Simple Order. Simple Business.*
 
-```
-
----
-
-Kalau kamu mau, aku bisa:
-- Buat versi **lebih “jualan” (marketing tone)**
-- Tambahin **badge GitHub (stars, license, open-source)**
-- Buat **README versi Inggris**
-- Bantu nulis **docs halaman admin**
-
-Tinggal bilang, kita polish sampai siap viral 🚀
-```
