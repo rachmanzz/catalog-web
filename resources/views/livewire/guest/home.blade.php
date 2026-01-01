@@ -25,4 +25,6 @@
 
     </section>
 
+    @include('components.nav.footer')
+
 </div>

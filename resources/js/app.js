@@ -1,11 +1,12 @@
 import './bootstrap';
 
-import { createIcons, Menu, Settings, MessageCircle } from 'lucide';
+import { createIcons, Menu, Settings, MessageCircle,Clock } from 'lucide';
 
 createIcons({
   icons: {
     Menu,
     Settings,
-    MessageCircle
+    MessageCircle,
+    Clock
   }
 });
