@@ -21,7 +21,6 @@ Pembeli dapat melihat katalog dan langsung **melakukan pemesanan via WhatsApp** 
 - 📝 Keterangan & deskripsi produk
 - 💬 Tombol **Order via WhatsApp**
 - 📱 Responsive (mobile friendly)
-- ⚡ Ringan & cepat diakses
 - 🔓 Open Source
 
 ---
@@ -76,10 +75,18 @@ Konfigurasi utama:
 
 ---
 
+Konfigurasi Whatsapp & Pesan:
+
+* konfig bisa lansung lewat .env atau config/app.php
+* untuk nomor: ```WA_NUMBER=62800000000```
+* untuk pesan: ```WA_TEXT_FORMAT=Hy kak, mau beli %produk% ini ya, ini harganya Rp. %harga% kan ?```
+* produk dan harga akan otomatis diganti sesuai katalog di database
+
 ## 🛠️ Teknologi
 
-* HTML / CSS / JavaScript
-  *(atau Laravel / stack lain sesuai implementasi)*
+* Laravel
+* Liveware
+* Filament
 * WhatsApp Direct Link
 * Responsive Layout
 
